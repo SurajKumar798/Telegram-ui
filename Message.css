@@ -1,0 +1,16 @@
+.message_body{
+    margin-left: 20px;
+}
+.message_contents{
+    padding: 10px;
+    margin-right: auto;
+    background-color: rgba(144, 238, 144, 0.519);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.message_contents small{
+    position: relative;
+    font-size: x-small;
+    
+}

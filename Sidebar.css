@@ -1,0 +1,49 @@
+.sidebar{ 
+    background-color: antiquewhite;
+    height: 100%;
+    margin-top: -8px;
+}
+.sidebar_items{
+    padding-top: 18px;
+    margin-left: 18px;
+}
+.menu_icon{
+    position: fixed;
+    display: contents;
+}
+.sidebar_search{
+    margin-left: 35px;
+    margin-top: -24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 1;
+    background-color: white;
+    border-radius: 30px;
+    padding: 2px;
+    border: 0.5px solid rgb(211, 211, 211);
+    height: 40px;
+    width: 20rem;
+}
+.search_input{
+    width: 15rem;
+    margin-left: 5px;
+    height: 25px;
+    border: none;
+    background-color: transparent;
+    outline-width:0;
+    color: black;
+    flex: 1;
+}
+.bottom_group{
+    display: contents;
+}
+.sidebar_thread{
+    flex: 1;
+    overflow: scroll;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+.sidebar_thread::-webkit-scrollbar{
+ display: none;
+}
