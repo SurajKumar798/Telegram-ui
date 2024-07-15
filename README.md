@@ -30,9 +30,6 @@ This project aims to replicate the user interface of Telegram using modern web t
 
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
-### Prerequisites
-
-Make sure you have Node.js and npm installed on your system. You can download them from [here](https://nodejs.org/).
 
 ### Installation
 
